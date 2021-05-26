@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DSW Coding Exercise</string>
+    <string name="your_first_item_in_the_bag_is">Your First item in the Bag is</string>
+    <string name="click_to_view_shopping_bag">Click to View Shopping Bag</string>
+</resources>
